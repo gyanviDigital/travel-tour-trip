@@ -1,0 +1,1 @@
+(()=>{"use strict";const{flextension:e}=window;document.addEventListener("lazybeforeunveil",(e=>{const t=e.target.getAttribute("data-bg");t&&(e.target.style.backgroundImage="url("+t+")")})),e.lazyLoad=Object.assign({update:()=>{void 0!==window.lazySizes&&void 0!==window.lazySizes.autoSizer&&window.lazySizes.autoSizer.checkElems()}},e.lazyLoad||{})})();
